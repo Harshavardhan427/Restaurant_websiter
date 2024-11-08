@@ -10,6 +10,7 @@ body{
     align-items: center;
     background: url(Images/booking\ background.jpeg);
     background-size: cover;
+    position:absolute;
 }
 
 .container{
